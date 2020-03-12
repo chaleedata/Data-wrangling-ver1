@@ -4,5 +4,8 @@ Data wrangling is a core skill that everyone who works with data should be famil
 # Install [Python 3.7 version](https://www.anaconda.com/distribution/)
 
 # Questions?
+click [linkedin](https://www.linkedin.com/in/chaleechea/) or chalee.chea@gmail.com
 
-
+# Fair Use
+If you would like to use this content for your own course, please do so with attribution and without modification.
+If you'd like to modify this course and use it, please reach out regarding modifications made. Thank you!
